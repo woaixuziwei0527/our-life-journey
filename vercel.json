@@ -1,0 +1,13 @@
+{
+  "name": "our-life-journey",
+  "description": "💕 异地恋情侣旅行记录地图 - 蓝粉梦幻配色，3D 中国地图，记录你们一起走过的城市",
+  "logo": "https://raw.githubusercontent.com/feiweiwei/our-life-journey/main/public/heart.svg",
+  "repository": {
+    "url": "https://github.com/feiweiwei/our-life-journey"
+  },
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "outputDirectory": "dist"
+}
